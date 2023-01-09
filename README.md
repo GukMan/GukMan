@@ -3,16 +3,11 @@
  
 ✏ **Tasks**
 
-<img src="https://img.shields.io/badge/NLP-Aspect based Sentiment Analysis-green"/> <img src="https://img.shields.io/badge/NLP-Automatic Speech Recognition-green"/>
-<img src="https://img.shields.io/badge/NLP-Summarization-green"/>
-<img src="https://img.shields.io/badge/NLP-Emotion Analysis in conversation-green"/>
-<img src="https://img.shields.io/badge/NLP-Text Generation-green"/>
-<img src="https://img.shields.io/badge/NLP-Machine Translation-green"/>
-<img src="https://img.shields.io/badge/NLP-Text Classification-green"/>
-<img src="https://img.shields.io/badge/CV-Object Detection-blue"/>
-<img src="https://img.shields.io/badge/CV-Image Classification-blue"/>
-<img src="https://img.shields.io/badge/ML-Classification-yellow"/>
-<img src="https://img.shields.io/badge/ML-Regression-yellow"/>
+<img src="https://img.shields.io/badge/NLP-Aspect based Sentiment Analysis-green"/> <img src="https://img.shields.io/badge/NLP-Automatic Speech Recognition-green"/> <img src="https://img.shields.io/badge/NLP-Summarization-green"/>
+
+<img src="https://img.shields.io/badge/NLP-Emotion Analysis in conversation-green"/>  <img src="https://img.shields.io/badge/NLP-Text Generation-green"/> <img src="https://img.shields.io/badge/NLP-Machine Translation-green"/> <img src="https://img.shields.io/badge/NLP-Text Classification-green"/>
+
+<img src="https://img.shields.io/badge/CV-Object Detection-blue"/> <img src="https://img.shields.io/badge/CV-Image Classification-blue"/> <img src="https://img.shields.io/badge/ML-Classification-yellow"/> <img src="https://img.shields.io/badge/ML-Regression-yellow"/>
 
 
 
