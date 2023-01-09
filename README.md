@@ -15,11 +15,11 @@
 <a href="https://github.com/HappyBusDay/EmotionClassification"><img src="https://img.shields.io/badge/NLP-Emotion Analysis in conversation-green"/> 
 <a href="https://github.com/GukMan/Song_title_recommendation"><img src="https://img.shields.io/badge/NLP-Text Generation-green"/> 
 <a href="https://github.com/GukMan/Kor_to_Eng_translator"><img src="https://img.shields.io/badge/NLP-Machine Translation-green"/> 
-<img src="https://img.shields.io/badge/NLP-Text Classification-green"/>
+<a href=""><img src="https://img.shields.io/badge/NLP-Text Classification-green"/>
 
 <a href="https://github.com/GukMan/Detecting-Old-Structures"><img src="https://img.shields.io/badge/CV-Object Detection-blue"/> 
 <a href="https://github.com/GukMan/Image-Classification-Using-Musinsa-Fashion-Data"><img src="https://img.shields.io/badge/CV-Image Classification-blue"/> 
-<img src="https://img.shields.io/badge/ML-Classification-yellow"/>
+<a href=""><img src="https://img.shields.io/badge/ML-Classification-yellow"/>
 <a href="https://github.com/HappyBusDay/Predicting_amount_of_tangerines"><img src="https://img.shields.io/badge/ML-Regression-yellow"/>
 
 
