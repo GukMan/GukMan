@@ -10,7 +10,7 @@
 
 <a href="https://github.com/HappyBusDay/Korean_ABSA"><img src="https://img.shields.io/badge/NLP-Aspect based Sentiment Analysis-green"/>
 <a href="https://github.com/HappyBusDay/Meeting-STT_Summarizaion"><img src="https://img.shields.io/badge/NLP-Automatic Speech Recognition-green"/>
-<a href="https://github.com/HappyBusDay/Meeting-STT_Summarizaion"><img src="https://img.shields.io/badge/NLP-Summarization-green"/>
+<a href="https://github.com/HappyBusDay/Meeting-STT_Summarizaion"><img src="https://img.shields.io/badge/NLP-Text Summarization-green"/>
 
 <a href="https://github.com/HappyBusDay/EmotionClassification"><img src="https://img.shields.io/badge/NLP-Emotion Analysis in conversation-green"/> 
 <a href="https://github.com/GukMan/Song_title_recommendation"><img src="https://img.shields.io/badge/NLP-Text Generation-green"/> 
