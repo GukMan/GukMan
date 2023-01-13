@@ -17,11 +17,11 @@
 <a href="https://github.com/GukMan/Kor_to_Eng_translator"><img src="https://img.shields.io/badge/NLP-Machine Translation-green"/> 
 <a href=""><img src="https://img.shields.io/badge/NLP-Text Classification-green"/>
  
-<a href=""><img src="https://img.shields.io/badge/NLP-POS tagging-green"/> <img src="https://img.shields.io/badge/NLP-Text Rank-green"/> <img src="https://img.shields.io/badge/NLP-Topic Modeling-green"/>
+<a href="https://github.com/GukMan/topic_modeling_and_review_sentiment_analysis_about_camera"><img src="https://img.shields.io/badge/NLP-POS tagging-green"/> <img src="https://img.shields.io/badge/NLP-Text Rank-green"/> <img src="https://img.shields.io/badge/NLP-Topic Modeling-green"/>
 
 <a href="https://github.com/GukMan/Detecting-Old-Structures"><img src="https://img.shields.io/badge/CV-Object Detection-blue"/> 
 <a href="https://github.com/GukMan/Image-Classification-Using-Musinsa-Fashion-Data"><img src="https://img.shields.io/badge/CV-Image Classification-blue"/> 
-<a href="https://github.com/GukMan/topic_modeling_and_review_sentiment_analysis_about_camera"><img src="https://img.shields.io/badge/ML-Classification-yellow"/>
+<a href=""><img src="https://img.shields.io/badge/ML-Classification-yellow"/>
 <a href="https://github.com/HappyBusDay/Predicting_amount_of_tangerines"><img src="https://img.shields.io/badge/ML-Regression-yellow"/>
 
 
