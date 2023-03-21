@@ -19,12 +19,12 @@
 <a href="https://github.com/GukMan/Kor_to_Eng_translator"><img src="https://img.shields.io/badge/NLP-Machine Translation-green"/> 
 <a href=""><img src="https://img.shields.io/badge/NLP-Text Classification-green"/>
  
-<a href="https://github.com/GukMan/topic_modeling_and_review_sentiment_analysis_about_camera"><img src="https://img.shields.io/badge/NLP-POS tagging-green"/> <img src="https://img.shields.io/badge/NLP-Text Rank-green"/> <img src="https://img.shields.io/badge/NLP-Topic Modeling-green"/>
+<a href="https://github.com/GukMan/topic_modeling_and_review_sentiment_analysis_about_camera"><img src="https://img.shields.io/badge/NLP-POS tagging-green"/> <img src="https://img.shields.io/badge/NLP-Text Rank-green"/> <img src="https://img.shields.io/badge/NLP-Topic Modeling-green"/> <a href=""><img src="https://img.shields.io/badge/NLP-ChatBot-green"/> 
 
 <a href="https://github.com/GukMan/Detecting-Old-Structures"><img src="https://img.shields.io/badge/CV-Object Detection-blue"/> 
 <a href="https://github.com/GukMan/Image-Classification-Using-Musinsa-Fashion-Data"><img src="https://img.shields.io/badge/CV-Image Classification-blue"/> 
 <a href=""><img src="https://img.shields.io/badge/ML-Classification-yellow"/>
-<a href="https://github.com/HappyBusDay/Predicting_amount_of_tangerines"><img src="https://img.shields.io/badge/ML-Regression-yellow"/>
+<a href="https://github.com/HappyBusDay/Predicting_amount_of_tangerines"><img src="https://img.shields.io/badge/ML-Regression-yellow"/> 
 
 
 
@@ -34,9 +34,9 @@
 
 📚 **Tech Stack**
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikit%2Dlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikit%2Dlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white"/> <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=ONNX&logoColor=white"/>
 
 
 
@@ -46,8 +46,9 @@
 🛠 **Tool**
 
 
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
 
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWS Lambda&logoColor=white"/>
 
 
 <br/>
