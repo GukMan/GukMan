@@ -1,6 +1,6 @@
 ### 😊 Good Day
  
-#### ML Engineer
+#### TizenRT Application Engineer
 <a href=""><img src="https://user-images.githubusercontent.com/83712521/212296254-6f8123fe-50a3-4613-9461-b183d5c29b47.png" width="30" height="30">
 
 
